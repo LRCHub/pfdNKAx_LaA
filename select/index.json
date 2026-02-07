@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ストレート果汁LOVE",
+  "base_artist": "革命メロイック",
+  "createdAt": "2026-02-07T07:25:44.102288Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ストレート果汁LOVE",
+      "artist": "革命メロイック",
+      "has_synced": false,
+      "path": "select/pl_01_ストレート果汁LOVE_革命メロイック.txt"
+    }
+  ]
+}
